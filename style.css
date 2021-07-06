@@ -110,7 +110,7 @@ input{
 }
 .recipies-card{  
     box-shadow: 5px 5px 40px grey;
-    border-radius: 10px;
+    border-radius: 15px;
     width: 25%;
     display: inline-block;
     margin: 10px 1%;
@@ -119,6 +119,7 @@ input{
 .recipies-card img{
     margin-top: 15px;
     width: 90%;
+    border-radius: 15px
 }
 .card-details{
     margin: 0 10%;
