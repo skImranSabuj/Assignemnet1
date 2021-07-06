@@ -18,7 +18,7 @@ p{
     margin-right: 100px;
 }
 .orange-color{
-    color: orange;
+    color: #D01F4D;
 }
 h1{
     font-size: 50px;
@@ -66,8 +66,8 @@ input{
 }
 .link-button{
     text-decoration: none;
-    padding: 15px 40px;
-    background-image: linear-gradient(#FB964B, #FD5332);
+    padding: 15px 50px;
+    background-image: linear-gradient(#D01F4D, #FD5332);
     border-radius: 25px;
     color: white;
 }
@@ -85,8 +85,8 @@ input{
     height: 20px;
     border-radius: 10px;
     text-decoration: none;
-    padding: 5px 30px;
-    background-image: linear-gradient(#FB964B, #FD5332);
+    padding: 5px 50px;
+    background-image: linear-gradient(#D01F4D, #FD5332);
     color: white;
 }
 .bouns-right{
